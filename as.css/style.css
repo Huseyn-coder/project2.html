@@ -6,6 +6,9 @@
 header {
     border-bottom: 1px solid #E7E7E7;
 }
+.section1 .mainfoto {
+    background: url(./Vector.png);
+}
 section h1 {
 color: #303031;
 font-size: 70px;
