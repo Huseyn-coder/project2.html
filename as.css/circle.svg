@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+	<title>circle-svg</title>
+	<style>
+		.s0 { fill: #f3f0ea } 
+	</style>
+	<path id="Ellipse 2" class="s0" d="m6 9c-1.7 0-3-1.3-3-3 0-1.7 1.3-3 3-3 1.7 0 3 1.3 3 3 0 1.7-1.3 3-3 3z"/>
+</svg>
